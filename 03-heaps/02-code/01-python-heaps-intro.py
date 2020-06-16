@@ -1,7 +1,7 @@
 # import random number generator
 from random import randrange
 # import heap class
-from min_heap import MinHeap 
+from 01-min-heap import MinHeap 
 
 # make an instance of MinHeap
 min_heap = MinHeap()
