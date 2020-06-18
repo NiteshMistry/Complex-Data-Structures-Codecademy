@@ -1,0 +1,10 @@
+Introduction to Graphs
+
+Vertex stores some data.
+Vertex stores the edges to connected vertices and their weight.
+Vertex can add a new edge to its collection.
+Graph stores all the vertices.
+Graph knows if it is directed or undirected.
+Graph can add a new vertex to its collection.
+Graph can add a new edge between stored vertices.
+Graph can tell whether a path exists between stored vertices.
