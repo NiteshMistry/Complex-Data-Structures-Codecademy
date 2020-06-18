@@ -1,0 +1,14 @@
+#import Vertex below....
+from 05-vertex import Vertex
+
+#import Graph below...
+from 05-graph import Graph
+
+#Make the Graph instance here
+railway = Graph()
+
+#Make the Vertex instance here
+station = Vertex("Ballahoo")
+
+#Call .add_vertex() here
+railway.add_vertex(station)
